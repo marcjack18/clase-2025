@@ -1,8 +1,8 @@
 import React from "react";
 import ModeToggle from "./mode-toggle";
 import { Button } from "@/components/ui/button";
-import { EllipsisVertical, Link, Sheet, ShoppingCart, UserIcon } from "lucide-react";
-import { SheetContent, SheetDescription, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
+import { EllipsisVertical, Link, ShoppingCart, UserIcon } from "lucide-react";
+import { Sheet,SheetContent, SheetDescription, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 
 export default function MenuHeader() {
 return (
